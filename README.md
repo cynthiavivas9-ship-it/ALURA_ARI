@@ -2,7 +2,6 @@
 
 Flujo desarrollado en **Make.com** que integra **Google Gemini AI**, **Gmail**, **Google Drive** y **Google Sheets** para clasificar correos entrantes, responder consultas frecuentes con base en documentación interna y registrar métricas de seguimiento[cite: 1].
 
-![Diagrama ARI Flow](./ari-flow.png)
 
 ## ⚙️ Funcionamiento
 
